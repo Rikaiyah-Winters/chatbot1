@@ -39,3 +39,5 @@ messages = [
 response_for_user = get_api_chat_response_message(model, messages)
 
 print("\n" + response_for_user + "\n")
+
+# test to see if github will commit this with no problem
